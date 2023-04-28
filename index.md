@@ -1,6 +1,8 @@
-## [About Me](/about-me)
-
 ## Portfolio
+
+---
+
+## [About Me](/about-me)
 
 ---
 
